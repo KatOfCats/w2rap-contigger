@@ -1,6 +1,3 @@
- 
- 
-   
 Bootstrap: docker
 From: gcc:5.5.0
 IncludeCmd: yes
