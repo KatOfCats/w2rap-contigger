@@ -3,7 +3,7 @@ From: gcc:5.5.0
 IncludeCmd: yes
 
 %setup
-# Copy any necessary files
+# Copy any necessary files 
 
 %environment
  # Use bash as default shell
