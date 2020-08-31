@@ -38,7 +38,7 @@ rm -rf cmake-3.4.1-Linux-x86_64.tar.gz
 # Install w2rap-contigger
 git clone https://github.com/bioinfologics/w2rap-contigger.git
 cd w2rap-contigger/
-git checkout bj
+#git checkout bj
 cmake -DCMAKE_CXX_COMPILER=g++ .
 make -j 4
 
